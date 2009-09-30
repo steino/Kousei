@@ -17,7 +17,7 @@ for _, cvarData in pairs{
 	'guildMemberNotify 1 GUILDMEMBER_ALERT',
 	'guildRecruitmentChannel 0 AUTO_JOIN_GUILD_CHANNEL',
 	'UnitNameOwn 1 UNIT_NAME_OWN',
-	'CombatDamage 0 SHOW_DAMAGE_TEXT',
+	'CombatDamage 1 SHOW_DAMAGE_TEXT',
 	'CombatHealing 1 SHOW_COMBAT_HEALING',
 	'showArenaEnemyFrames 0 SHOW_ARENA_ENEMY_FRAMES_TEXT',
 	'cameraDistanceMax 20',

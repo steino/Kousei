@@ -1,6 +1,5 @@
 -- Because it needs to be perfect.
 ChatFrame2:SetJustifyH"RIGHT"
-ChatFrame4:SetJustifyH"CENTER"
 
 -- This is mainly because we hate the FCF.
 FCF_ValidateChatFramePosition = Kousei.dummy
