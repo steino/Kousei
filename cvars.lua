@@ -3,7 +3,7 @@ for _, cvarData in pairs{
 	'deselectOnClick 0 GAMEFIELD_DESELECT_TEXT',
 	'autoLootDefault 1 AUTO_LOOT_DEFAULT_TEXT',
 	'autoSelfCast 1 AUTO_SELF_CAST_TEXT',
-	'autoDismountFlying 1 AUTO_DISMOUNT_FLYING_TEXT',
+	'autoDismountFlying 0 AUTO_DISMOUNT_FLYING_TEXT',
 	'showClock 0 SHOW_CLOCK',
 	'threatShowNumeric 1 SHOW_NUMERIC_THREAT',
 	'previewTalents 1 PREVIEW_TALENT_CHANGES',
